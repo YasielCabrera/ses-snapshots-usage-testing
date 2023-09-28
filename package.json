@@ -12,7 +12,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.14.11",
-    "@yasiel.cabrera/ses-snapshots-library": "^1.0.0",
+    "dspot-powerhouse-components": "^1.0.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"

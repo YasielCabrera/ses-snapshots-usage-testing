@@ -6,7 +6,7 @@ import {
   AccountsSnapshotSkeleton,
   ResourceType,
   ThemeProvider,
-} from "@yasiel.cabrera/ses-snapshots-library";
+} from "dspot-powerhouse-components";
 import { useEffect, useState } from "react";
 import { snapshot_mock } from "./mock";
 
